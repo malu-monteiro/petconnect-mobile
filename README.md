@@ -8,7 +8,7 @@ Tabs:
 
 1. Feed
    
-[ ] Activity stram showing: Pet Desaparecido, Pet Encontrado, Reunidos! <br />
+[ ] Activity stream showing: Pet Desaparecido, Pet Encontrado, Reunidos! <br />
 [ ] Image preview with carousel on click <br />
 [ ] Likes and Comments <br />
 
